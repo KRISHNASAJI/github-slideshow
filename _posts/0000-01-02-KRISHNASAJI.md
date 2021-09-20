@@ -2,8 +2,8 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Hello"
 
 ---
 
-Your text
+
